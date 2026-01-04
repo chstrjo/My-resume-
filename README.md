@@ -17,7 +17,7 @@
 Специальность - инженер автоматизации в промышленности и бизнесе.  
 
 ### Курсы тестировщика
-* Август 2024 - Sterpik. Тестирование ПО: Postman для тестирвоания API. [Сертификат о прохождении курса.](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf#сертиы)  
+* Август 2024 - Sterpik. Тестирование ПО: Postman для тестирвоания API. [Сертификат о прохождении курса.](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf#Sterpik._Тестирование_ПО:Postman_для_тестирвоания_API.){target="_blank"}
 * Декабрь 2025 - Sterpik. Тестирование ПО. Теория+практика. Сертификат о прохождении курса.  
 
 Сертификаты тестировщика.
