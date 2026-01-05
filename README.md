@@ -22,7 +22,11 @@
 ### Курсы тестировщика.
 * Август 2024 - Sterpik. Тестирование ПО: Postman для тестирвоания API.  
 [Ссылка на сертификат о прохождении курса на сайте stepik.org](https://stepik.org/cert/2550314 "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.")  
-[Ссылка на сертификат о прохождении курса на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.")
+[Ссылка на сертификат о прохождении курса на github.com](Certificates/Software testing Theory+Practice.pdf)
+
+<!-- [Ссылка на сертификат о прохождении курса на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.") -->
+
+[//]: # (Это комментарий, он не будет отображаться)
 
 * Декабрь 2025 - Sterpik. Тестирование ПО. Теория+практика. Сертификат о прохождении курса.  
 [Ссылка на сертификат о прохождении курса на сайте stepik.org](https://stepik.org/cert/3067881 "Сертификат курса - Тестирование ПО с нуля. Теория+практика.")  
