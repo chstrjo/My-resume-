@@ -62,7 +62,11 @@
 
 * Декабрь 2025 - Stepik. "Тестирование ПО. Теория+практика."   
 [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3067881 "Сертификат курса - Тестирование ПО с нуля. Теория+практика.")  *(Для открытия в новом окне нажмите колесико мыши.)*  
-[Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Software%20testing%20Theory%2BPractice.pdf "Сертификат курса - Тестирование ПО с нуля. Теория+практика.")  *(Для открытия в новом окне нажмите колесико мыши.)* 
+[Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Software%20testing%20Theory%2BPractice.pdf "Сертификат курса - Тестирование ПО с нуля. Теория+практика.")  *(Для открытия в новом окне нажмите колесико мыши.)*
+
+<img src="https://github.com/chstrjo/My-resume-/blob/f706c9439be53ff72b7e4edcc1519ae8ad9bc9d0/Certificates/PIC%20Software%20testing%20Theory%2BPractice-1.jpg" alt="Компьютер" border=”25” width="500" height="300">
+
+![Сертификат](https://github.com/chstrjo/My-resume-/blob/f706c9439be53ff72b7e4edcc1519ae8ad9bc9d0/Certificates/PIC%20Software%20testing%20Theory%2BPractice-1.jpg)
 
 ### Курсы технического писателя.
 * Ноябрь 2025 - Stepik. "MARKDOWN."  
