@@ -59,7 +59,10 @@
 ---
 
 ### Курсы тестировщика.
-* ***Август 2024 - Stepik. "Тестирование ПО: Postman для тестирвоания API."***  
+* ***Август 2024 - Stepik. "Тестирование ПО: Postman для тестирвоания API."***
+
+<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/PIC%20Postman%20for%20testing%20API.jpg" alt="Сертификат курса - Тестирование ПО: Postman для тестирвоания API." width="400" height="250">
+  
 [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/2550314 "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.") *(Для открытия в новом окне нажмите колесико мыши.)*  
 [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.")  *(Для открытия в новом окне нажмите колесико мыши.)*
 
@@ -72,19 +75,28 @@
 [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Software%20testing%20Theory%2BPractice.pdf "Сертификат курса - Тестирование ПО с нуля. Теория+практика.")  *(Для открытия в новом окне нажмите колесико мыши.)*
 
 ---
-### Курсы технического писателя.
-* Ноябрь 2025 - Stepik. "MARKDOWN."  
+### ***Курсы технического писателя.***
+* Ноябрь 2025 - Stepik. "MARKDOWN."
+
+<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/PIC%20Markdown.jpg" alt="Сертификат курса - MARKDOWN" width="400" height="250">
+
   [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3021745 "Сертификат о прохожденгии каурса MARKDOWN") *(Для открытия в новом окне нажмите колесико мыши.)*  
   [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Markdown.pdf "Сертификат о прохожденгии каурса MARKDOWN") *(Для открытия в новом окне нажмите колесико мыши.)* 
 
   
-* Декабрь 2025 - Stepik. "MARKDOWN синтаксис"  
-   [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3071646 "Сертификат о прохожденгии каурса MARKDOWN синтаксис") *(Для открытия в новом окне нажмите колесико мыши.)*  
+* ***Декабрь 2025 - Stepik. "MARKDOWN синтаксис"***
+
+<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/PIC%20Markdown%20syntax.jpg" alt="Сертификат курса - MARKDOWN синтаксис" width="400" height="250">
+
+  [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3071646 "Сертификат о прохожденгии каурса MARKDOWN синтаксис") *(Для открытия в новом окне нажмите колесико мыши.)*  
   [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Markdown%20syntax.pdf "Сертификат о прохожденгии каурса MARKDOWN синтаксис") *(Для открытия в новом окне нажмите колесико мыши.)*  
 
 ---
 ### Другие курсы.
-* Ноябрь 2025 - Stepik. "Нотация BPMN 2.0 с нуля"  
+* ***Ноябрь 2025 - Stepik. "Нотация BPMN 2.0 с нуля"***
+
+<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/PIC%20BPMN%202.0%20Notation.jpg" alt="Сертификат курса - Нотация BPMN 2.0 с нуля" width="400" height="250">
+
  [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3011345 "Сертификат о прохожденгии каурса Нотация BPMN 2.0 с нуля") *(Для открытия в новом окне нажмите колесико мыши.)*  
   [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/BPMN%202.0%20Notation.pdf "Сертификат о прохожденгии каурса Нотация BPMN 2.0 с нуля") *(Для открытия в новом окне нажмите колесико мыши.)*
 
