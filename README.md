@@ -68,7 +68,7 @@
 
 * ***Март 2026 - Stepik. "Postman-ниндзя: c нуля до автотестов"***
 
-<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/PIC%20Postman%20for%20testing%20API.jpg" alt="Сертификат курса - Тестирование ПО: Postman для тестирвоания API." width="400" height="250">
+<img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/stepik_Posman-ninja.jpg" alt="Postman-ниндзя: c нуля до автотестов" width="400" height="250">
   
 [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3166245 "Сертификат курса - Postman-ниндзя: c нуля до автотестов.") *(Для открытия в новом окне нажмите колесико мыши.)*  
 [Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.")  *(Для открытия в новом окне нажмите колесико мыши.)*
