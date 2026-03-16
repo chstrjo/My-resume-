@@ -71,7 +71,7 @@
 <img src="https://github.com/chstrjo/My-resume-/blob/main/Certificates/stepik_Posman-ninja.jpg" alt="Postman-ниндзя: c нуля до автотестов" width="400" height="250">
   
 [Ссылка на сертификат о прохождении курса хранящийся на stepik.org](https://stepik.org/cert/3166245 "Сертификат курса - Postman-ниндзя: c нуля до автотестов.") *(Для открытия в новом окне нажмите колесико мыши.)*  
-[Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/Postman%20for%20testing%20API.pdf "Сертификат курса - Тестирование ПО: Postman для тестирвоания API.")  *(Для открытия в новом окне нажмите колесико мыши.)*
+[Ссылка на сертификат о прохождении курса хранящийся на github.com](https://github.com/chstrjo/My-resume-/blob/main/Certificates/stepik_Posman-ninja.pdf "Сертификат курса - Тестирование ПО: Postman-ниндзя: c нуля до автотестов.")  *(Для открытия в новом окне нажмите колесико мыши.)*
 
 *  ***Декабрь 2025 - Stepik. "Тестирование ПО. Теория+практика."*** 
 
